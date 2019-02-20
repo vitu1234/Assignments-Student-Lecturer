@@ -1,0 +1,13 @@
+ASSIGNMENT MANAGER
+**** for the project to run follow the steps ***
+1. import database in db folder
+2. create/register an account to either use lecturer page or student page
+3. file upload size of not more than 10MB (ONLY PDF)
+
+
+MODULE DIVISION
+* Login Page by Ruth Nyoni
+* Registration Page by Danniel Zinyongo
+* Student page Design And Send Assignment by Sunganani Ngwira
+* Student page Change Password by Hassan Kaundo
+* Lecturer Page by Vitumbiko Mafeni
